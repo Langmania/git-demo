@@ -3,6 +3,7 @@ wall of shields
 standing strong 
 on this battle field
 
+<<<<<<< HEAD
 love love love
 bla bla bla
 
@@ -11,3 +12,8 @@ more content 2
 bla bla
 final part
 -----
+=======
+
+love love love
+bla bla bla
+>>>>>>> 322ad10580784a266a91a88d3adf7ef6ce5ba64f
